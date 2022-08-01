@@ -1,0 +1,12 @@
+C:\Users\kapun\source\repos\HelloService\HelloService\bin\Debug\net5.0\HelloService.dll.config
+C:\Users\kapun\source\repos\HelloService\HelloService\bin\Debug\net5.0\HelloService.deps.json
+C:\Users\kapun\source\repos\HelloService\HelloService\bin\Debug\net5.0\HelloService.dll
+C:\Users\kapun\source\repos\HelloService\HelloService\bin\Debug\net5.0\ref\HelloService.dll
+C:\Users\kapun\source\repos\HelloService\HelloService\bin\Debug\net5.0\HelloService.pdb
+C:\Users\kapun\source\repos\HelloService\HelloService\obj\Debug\net5.0\HelloService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapun\source\repos\HelloService\HelloService\obj\Debug\net5.0\HelloService.AssemblyInfoInputs.cache
+C:\Users\kapun\source\repos\HelloService\HelloService\obj\Debug\net5.0\HelloService.AssemblyInfo.cs
+C:\Users\kapun\source\repos\HelloService\HelloService\obj\Debug\net5.0\HelloService.csproj.CoreCompileInputs.cache
+C:\Users\kapun\source\repos\HelloService\HelloService\obj\Debug\net5.0\HelloService.dll
+C:\Users\kapun\source\repos\HelloService\HelloService\obj\Debug\net5.0\ref\HelloService.dll
+C:\Users\kapun\source\repos\HelloService\HelloService\obj\Debug\net5.0\HelloService.pdb

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kapun\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kapun\\.nuget\\packages"
+    ]
+  }
+}
